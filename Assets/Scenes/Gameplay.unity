@@ -557,4 +557,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dodgeSpeed: 5
-  rollSpeed: 0.27
+  rollSpeed: 0.5
